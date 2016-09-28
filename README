@@ -1,2 +1,2 @@
+项目说明：录制服务的demo，在本地保存为.flv格式的文件
 利用 websocket 协议维持长连接,采用 rtmp 协议从 media server中拉流,将保存的视频存放到云目录中；
-使用的技术线程池，socket长链接，线程创建，rtmp协议，linux文件创建
